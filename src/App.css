@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+p {
+  font-size: 1.6rem;
+}
+.temp {
+  font-weight: 700;
+  font-size: 6rem;
+}
+.current{
+  background-color: rgba(0,0,0,0,4);
+}
+.App {
+  text-align: center;
+  background-color: #1d1942;
+  color: azure;
+}
+
+.row {
+  justify-content: center;
+  margin: 15px 0;
+}
+
+
